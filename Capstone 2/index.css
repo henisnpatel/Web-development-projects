@@ -106,6 +106,7 @@ h1{
 .gridbox img{
     height: 300px;
     object-fit: cover;
+
 }
 .gridbox p{
     font-size: 20px;
